@@ -31,6 +31,7 @@
 - 💡 Project focus: [e.g. financial literacy platform, dashboards for user data insights]
 - 🔗 [Figma Prototype](https://www.figma.com/proto/EuTIr7lXngLJRq63EMDqt6/Projects?node-id=3-161&t=AWAxNjyWGlOh4aOT-1)
 - 📄 [Read Case Study](https://www.figma.com/deck/7g5UdCRW6I8wvg39dMMz6n/Finlit-Pulse?node-id=12-1885&t=KX9SY0VbiykyHIG8-1)
+- ▶️ [Youtube Demo](https://youtu.be/uW8S9oo7U64)
 
 ---
 
